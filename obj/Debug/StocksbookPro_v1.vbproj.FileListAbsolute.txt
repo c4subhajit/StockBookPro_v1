@@ -1,0 +1,14 @@
+F:\WORKSPACE\KVK Dhalai\StocksbookPro_v1\StocksbookPro_v1\bin\Debug\StocksbookPro_v1.exe.config
+F:\WORKSPACE\KVK Dhalai\StocksbookPro_v1\StocksbookPro_v1\bin\Debug\DataItems\KVKDhalai_Stockbook.mdf
+F:\WORKSPACE\KVK Dhalai\StocksbookPro_v1\StocksbookPro_v1\bin\Debug\DataItems\KVKDhalai_Stockbook_log.ldf
+F:\WORKSPACE\KVK Dhalai\StocksbookPro_v1\StocksbookPro_v1\bin\Debug\StocksbookPro_v1.exe
+F:\WORKSPACE\KVK Dhalai\StocksbookPro_v1\StocksbookPro_v1\bin\Debug\StocksbookPro_v1.pdb
+F:\WORKSPACE\KVK Dhalai\StocksbookPro_v1\StocksbookPro_v1\bin\Debug\StocksbookPro_v1.xml
+F:\WORKSPACE\KVK Dhalai\StocksbookPro_v1\StocksbookPro_v1\obj\Debug\ResolveAssemblyReference.cache
+F:\WORKSPACE\KVK Dhalai\StocksbookPro_v1\StocksbookPro_v1\obj\Debug\StocksKVK.frm_FS_SRD.resources
+F:\WORKSPACE\KVK Dhalai\StocksbookPro_v1\StocksbookPro_v1\obj\Debug\StocksKVK.frm_Stock_home.resources
+F:\WORKSPACE\KVK Dhalai\StocksbookPro_v1\StocksbookPro_v1\obj\Debug\StocksKVK.Resources.resources
+F:\WORKSPACE\KVK Dhalai\StocksbookPro_v1\StocksbookPro_v1\obj\Debug\StocksbookPro_v1.vbproj.GenerateResource.Cache
+F:\WORKSPACE\KVK Dhalai\StocksbookPro_v1\StocksbookPro_v1\obj\Debug\StocksbookPro_v1.exe
+F:\WORKSPACE\KVK Dhalai\StocksbookPro_v1\StocksbookPro_v1\obj\Debug\StocksbookPro_v1.xml
+F:\WORKSPACE\KVK Dhalai\StocksbookPro_v1\StocksbookPro_v1\obj\Debug\StocksbookPro_v1.pdb

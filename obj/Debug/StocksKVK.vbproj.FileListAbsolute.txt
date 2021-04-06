@@ -1,0 +1,14 @@
+C:\Users\w@r10ck\AppData\Local\Temporary Projects\StocksKVK\bin\Debug\DataItems\KVKDhalai_Stockbook.mdf
+C:\Users\w@r10ck\AppData\Local\Temporary Projects\StocksKVK\bin\Debug\DataItems\KVKDhalai_Stockbook_log.ldf
+C:\Users\w@r10ck\AppData\Local\Temporary Projects\StocksKVK\bin\Debug\StocksKVK.exe.config
+C:\Users\w@r10ck\AppData\Local\Temporary Projects\StocksKVK\bin\Debug\StocksKVK.exe
+C:\Users\w@r10ck\AppData\Local\Temporary Projects\StocksKVK\bin\Debug\StocksKVK.pdb
+C:\Users\w@r10ck\AppData\Local\Temporary Projects\StocksKVK\bin\Debug\StocksKVK.xml
+C:\Users\w@r10ck\AppData\Local\Temporary Projects\StocksKVK\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\w@r10ck\AppData\Local\Temporary Projects\StocksKVK\obj\Debug\StocksKVK.frm_FS_SRD.resources
+C:\Users\w@r10ck\AppData\Local\Temporary Projects\StocksKVK\obj\Debug\StocksKVK.frm_Stock_home.resources
+C:\Users\w@r10ck\AppData\Local\Temporary Projects\StocksKVK\obj\Debug\StocksKVK.Resources.resources
+C:\Users\w@r10ck\AppData\Local\Temporary Projects\StocksKVK\obj\Debug\StocksKVK.vbproj.GenerateResource.Cache
+C:\Users\w@r10ck\AppData\Local\Temporary Projects\StocksKVK\obj\Debug\StocksKVK.exe
+C:\Users\w@r10ck\AppData\Local\Temporary Projects\StocksKVK\obj\Debug\StocksKVK.xml
+C:\Users\w@r10ck\AppData\Local\Temporary Projects\StocksKVK\obj\Debug\StocksKVK.pdb
